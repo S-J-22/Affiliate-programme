@@ -68,11 +68,11 @@ section{
     text-align: center;
 }
 
-.benefits ul{
+.benefits ul, .requirements ul{
     list-style-type: none;
 }
 
-.benefits ul li{
+.benefits ul li, .requirements ul li{
     margin: 10px 0;
 }
 
